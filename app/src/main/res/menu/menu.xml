@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mCompartilhar"
+        android:icon="@drawable/ic_library_music_dp"
+        android:title="Musicas"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/mCotacao"
+        android:icon="@drawable/ic_monetization_dp"
+        android:title="Cotação"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/mMercado"
+        android:icon="@drawable/ic_add_shopping_cart_dp"
+        android:title="Mercado Vegano"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/mTempo"
+        android:icon="@drawable/ic_wb_sunny_dp"
+        android:title="Tempo"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/mNoticias"
+        android:icon="@drawable/ic_comment_dp"
+        android:title="Notícias"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/mInformacoes"
+        android:icon="@drawable/ic_info_dp"
+        android:title="Informações"
+        app:showAsAction="never"></item>
+
+    <item
+        android:id="@+id/mPaises"
+        android:icon="@drawable/ic_language_dp"
+        android:title="Paises"
+        app:showAsAction="never"></item>
+
+</menu>
